@@ -1,3 +1,6 @@
+INTRO :
+A super easy Application in which i use weather api from the internet and use them in my project. An application programming interface is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It's a key to connect the backend with the frontend application.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
